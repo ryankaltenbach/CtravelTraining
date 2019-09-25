@@ -120,3 +120,6 @@ p {
         top: -170%;
     }
 }
+figcaption {
+  color: yellow;
+}
