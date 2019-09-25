@@ -121,5 +121,6 @@ p {
     }
 }
 figcaption {
-  color: yellow;
+  font-style: normal;
+  color: red;
 }
