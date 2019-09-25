@@ -121,6 +121,5 @@ p {
     }
 }
 figcaption {
-  font-style: normal;
-  color: red;
+  color: white; 
 }
