@@ -5,43 +5,27 @@
     		<title></title>
     	</head>
     	<body>
-    <div class="tree">
-    	<ul>
-    		<li>
-    			<a href="#">Parent</a>
-    			<ul>
-    				<li>
-    					<a href="#">Child</a>
-    					<ul>
-    						<li>
-    							<a href="#">Grand Child</a>
-    						</li>
-    					</ul>
-    				</li>
-    				<li>
-    					<a href="#">Child</a>
-    					<ul>
-    						<li><a href="#">Grand Child</a></li>
-    						<li>
-    							<a href="#">Grand Child</a>
-    							<ul>
-    								<li>
-    									<a href="#">Great Grand Child</a>
-    								</li>
-    								<li>
-    									<a href="#">Great Grand Child</a>
-    								</li>
-    								<li>
-    									<a href="#">Great Grand Child</a>
-    								</li>
-    							</ul>
-    						</li>
-    						<li><a href="#">Grand Child</a></li>
-    					</ul>
-    				</li>
-    			</ul>
-    		</li>
-    	</ul>
-    </div>
+        <ul id="myUL">
+        <li><span class="caret">Beverages</span>
+          <ul class="nested">
+            <li>Water</li>
+            <li>Coffee</li>
+            <li><span class="caret">Tea</span>
+              <ul class="nested">
+                <li>Black Tea</li>
+                <li>White Tea</li>
+                <li><span class="caret">Green Tea</span>
+                  <ul class="nested">
+                    <li>Sencha</li>
+                    <li>Gyokuro</li>
+                    <li>Matcha</li>
+                    <li>Pi Lo Chun</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
   </body>
 </html>
