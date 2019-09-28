@@ -180,10 +180,7 @@ ul, #myUL {
   transform: rotate(90deg);
 }
 
-
-
-
-
 .flex-container {
   display: flex;
+  flex-direction: row;
 }
