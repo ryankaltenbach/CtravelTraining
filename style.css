@@ -188,6 +188,7 @@ ul, #myUL {
  height: 600px;
  flex-wrap: wrap;
  align-content: space-between;
+ margin: 5px;
 
 }
 
@@ -195,8 +196,9 @@ figcaption {
  color: white;
 }
 figure{
-  flex: 1 0 21%;
- margin: 25px;
- height: 100px;
+   flex: 1 0 21%;
+   margin: 25px;
+   height: 100px;
+   margin: 5px;
 
 }
