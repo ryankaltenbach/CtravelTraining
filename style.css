@@ -158,7 +158,9 @@ ul, #myUL {
   margin: 0;
   padding: 0;
 }
-
+.nested{
+  color: white;
+}
 .caret {
   cursor: pointer;
   -webkit-user-select: none; /* Safari 3.1+ */
@@ -183,9 +185,10 @@ ul, #myUL {
 
 .flex-container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  
+ height: 600px;
+ flex-wrap: wrap;
+ align-content: space-between;
+
 }
 
 figcaption {
