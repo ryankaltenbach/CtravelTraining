@@ -200,5 +200,8 @@ figure{
    margin: 25px;
    height: 100px;
    margin: 5px;
+}
 
+.helpdesk {
+  background-image: url(background.jpg);
 }
