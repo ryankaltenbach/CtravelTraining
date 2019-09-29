@@ -207,4 +207,5 @@ figure{
   background-repeat: repeat-x;
   background-position: right top;
   background-attachment: scroll;
+  background-size: 300px 100px;
 }
