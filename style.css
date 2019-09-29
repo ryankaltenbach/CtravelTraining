@@ -205,4 +205,6 @@ figure{
 .helpdesk {
   background-image: url(background.jpg);
   background-repeat: repeat-x;
+  background-position: right top;
+  background-attachment: scroll;
 }
