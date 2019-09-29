@@ -184,3 +184,7 @@ ul, #myUL {
   display: flex;
   flex-direction: row;
 }
+
+figcaption {
+ color: white;
+}
