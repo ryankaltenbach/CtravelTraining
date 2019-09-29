@@ -183,6 +183,8 @@ ul, #myUL {
 .flex-container {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 figcaption {
