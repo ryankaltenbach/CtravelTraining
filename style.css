@@ -184,12 +184,12 @@ ul, #myUL {
 }
 
 .flex-container {
-  display: flex;
- height: 600px;
- flex-wrap: wrap;
- align-content: space-between;
- margin: 5px;
+   display: flex;
+   min-height: 100vh;
+   flex-wrap: wrap;
+   border:10px solid goldenrod;
 
+  
 }
 
 figcaption {
