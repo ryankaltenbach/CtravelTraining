@@ -183,13 +183,12 @@ ul, #myUL {
   transform: rotate(90deg);
 }
 
-.flex-container {
+.container {
    display: flex;
-   min-height: 100vh;
    flex-wrap: wrap;
+   flex-direction:column;
    border:10px solid goldenrod;
-
-  
+   height:100vh;
 }
 
 figcaption {
