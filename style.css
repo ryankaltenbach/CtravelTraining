@@ -190,7 +190,7 @@ ul, #myUL {
    border:10px solid goldenrod;
    height:100vh;
    background-image: fixed center repeat url(background.jpg);
-   background-size: contain;
+   background-size: center repeat;
 }
 
 figcaption {
