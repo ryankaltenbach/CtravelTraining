@@ -189,7 +189,7 @@ ul, #myUL {
    flex-direction:column;
    border:10px solid goldenrod;
    height:100vh;
-   background-image: background.jpg
+   background-image: url(background.jpg);
 }
 
 figcaption {
