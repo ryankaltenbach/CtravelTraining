@@ -189,7 +189,7 @@ ul, #myUL {
    flex-direction:column;
    border:10px solid goldenrod;
    height:100vh;
-   background-image: fixed center repeat url(staffbackground.jpg);
+   background-image: fixed center url(staffbackground.jpg);
    background-size: center repeat;
 }
 
